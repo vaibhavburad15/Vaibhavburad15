@@ -156,15 +156,7 @@ I work across the **entire engineering lifecycle** — from system design and ba
 | Agentic AI Systems | ██████░░░░ Intermediate |
 | Database Design | ███████░░░ Proficient |
 | Linux & Scripting | ███████░░░ Proficient |
-
----
-
-## 📌 Featured Work (Add Your Projects Here)
-
-- 🔹 AI-powered Stress Analyzer (CBT + LLM integration)  
-- 🔹 Full-stack apps with authentication & dashboards  
-- 🔹 CI/CD pipelines with Docker + GitHub Actions  
-- 🔹 AI query systems (Natural Language → Database)  
+  
 
 ---
 
@@ -188,10 +180,6 @@ Actively seeking opportunities in:
 
 📍 Location: Mumbai / Remote  
 
----
-
-## 🧠 Philosophy
-
 
 ---
 
@@ -199,10 +187,6 @@ Actively seeking opportunities in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavburad15&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavburad15&theme=radical" />
 </p>
 
 ---

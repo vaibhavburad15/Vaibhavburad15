@@ -181,16 +181,6 @@ Actively seeking opportunities in:
 📍 Location: Mumbai / Remote  
 
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavburad15&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## 🤝 Let’s Collaborate
 
 I’m open to:

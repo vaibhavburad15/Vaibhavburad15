@@ -11,151 +11,212 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm an engineering student passionate about building **scalable, intelligent, and production-ready systems** — combining full-stack development, modern DevOps practices, and applied AI to create cohesive products that solve real problems.
+I’m an engineering student focused on building **scalable, production-ready systems** by combining:
 
-I take ownership of the entire engineering lifecycle: from designing system architecture and writing clean APIs, to containerizing services, automating deployments, and integrating LLMs into intelligent workflows.
+- 🌐 Full-Stack Development  
+- ☁️ Cloud & DevOps Engineering  
+- 🤖 Generative AI & Agentic AI Systems  
 
-> **Learning by building → Automating → Scaling → Improving continuously**
+I work across the **entire engineering lifecycle** — from system design and backend APIs to deployment pipelines and AI integration.
+
+> **Build → Automate → Scale → Improve**
 
 ---
 
-## What I Build
+## 💡 What I Build
 
-### 🌐 Full-Stack Development
-End-to-end application development with a focus on performance, scalability, and clean architecture.
-- Responsive, accessible UIs with React.js
-- Scalable REST APIs with Node.js / FastAPI
-- JWT-based authentication & role management
-- Modular component architecture & state management
-- Database schema design and query optimization
+### 🌐 Full-Stack Applications
+- Responsive UI with React.js  
+- Scalable backend APIs (Node.js / FastAPI)  
+- Authentication (JWT, role-based systems)  
+- Clean architecture & modular design  
+- Database schema design & optimization  
+
+---
 
 ### 🏗️ System Design
-Designing reliable, scalable systems that handle real-world complexity.
-- High-level and low-level design (HLD / LLD)
-- Microservices vs. monolith trade-off analysis
-- API gateway patterns & load balancing strategies
-- Caching layers (Redis), rate limiting, and fault tolerance
-- Database indexing, sharding, and replication concepts
-- Event-driven architecture & message queue patterns
+- High-level & low-level design (HLD / LLD)  
+- Microservices vs monolith architecture  
+- API gateway & load balancing  
+- Caching (Redis), rate limiting  
+- Event-driven systems & message queues  
+- Scalability, fault tolerance & reliability  
 
-### ☁️ Cloud & DevOps
-Delivering software reliably through modern infrastructure and automation.
-- Containerization with Docker & image optimization
-- CI/CD pipeline design with GitHub Actions
-- Cloud deployment on VPS / cloud platforms
-- Linux server administration & shell scripting
-- Environment & secrets management best practices
-- Infrastructure monitoring and log management
+---
+
+### ☁️ Cloud & DevOps Engineering
+- Containerization & orchestration (Docker, Kubernetes)  
+- CI/CD pipelines for automated delivery  
+- Infrastructure as Code (IaC)  
+- Cloud deployment & networking  
+- Monitoring & observability  
+
+---
 
 ### 🤖 Generative AI
-Integrating LLMs into production applications to create intelligent, context-aware systems.
-- LLM API integration (OpenAI-style, Groq)
-- Retrieval-Augmented Generation (RAG) pipelines
-- Prompt engineering & chain-of-thought techniques
-- Embedding-based semantic search
-- AI-powered backend services & query systems
+- LLM-powered applications  
+- RAG (Retrieval-Augmented Generation) pipelines  
+- AI-driven backend services  
+- Prompt engineering & workflows  
+
+---
 
 ### 🧠 Agentic AI Systems
-Building next-generation AI systems that can reason, plan, and act autonomously.
-- Multi-step reasoning and planning agents
-- Tool-using AI systems with dynamic function calling
-- LangChain-based agent orchestration
-- Autonomous task execution workflows
-- Memory management in long-horizon agents
+- Autonomous AI agents (reasoning + planning)  
+- Tool-using AI systems  
+- LangChain-based orchestration  
+- Memory & multi-step workflows  
+- AI automation pipelines  
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- React.js  
+- HTML5, CSS3, JavaScript (ES6+)  
+- Tailwind CSS  
+
+---
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+- Node.js, Express  
+- Python (FastAPI, Flask)  
+- REST APIs & authentication  
+
+---
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+- MongoDB  
+- MySQL  
+- PostgreSQL  
+- IBM DB2  
+- Redis  
 
 ---
 
-## Professional Skills
+### 🤖 AI & LLMs
+- LangChain  
+- OpenAI-style APIs, Groq  
+
+**Capabilities:**
+- Open-source LLM hosting (local/cloud)  
+- Fine-tuning LLMs  
+- RAG pipelines  
+- Prompt engineering  
+- Building agentic AI systems  
+
+---
+
+### ☁️ DevOps & Cloud
+
+#### DevOps & IaC
+- Docker, Kubernetes, Helm  
+- Terraform, Ansible  
+
+#### CI/CD & Cloud
+- Jenkins  
+- GitHub Actions  
+- GitLab CI/CD  
+- AWS (EC2, S3, SQS, RDS, VPC)  
+- Microsoft Azure  
+
+#### Monitoring
+- Prometheus  
+- Grafana  
+- AWS CloudWatch (basic)  
+
+#### OS / Platforms
+- Linux  
+- CentOS, Fedora  
+
+---
+
+### 🧑‍💻 Programming Languages
+- JavaScript  
+- Python  
+- SQL  
+- Bash  
+
+---
+
+## 📊 Professional Skills
 
 | Skill | Proficiency |
-|---|---|
-| Full-Stack Web Development | ████████░░ Advanced |
-| System Design (HLD / LLD) | ███████░░░ Proficient |
-| REST API Design & Architecture | ████████░░ Advanced |
-| Docker & Containerization | ███████░░░ Proficient |
-| CI/CD & DevOps Automation | ███████░░░ Proficient |
-| Generative AI & LLM Integration | ████████░░ Advanced |
-| Agentic AI & LangChain | ██████░░░░ Intermediate |
-| Cloud Infrastructure & VPS | ██████░░░░ Intermediate |
-| Linux Administration | ███████░░░ Proficient |
-| Database Design & Optimization | ███████░░░ Proficient |
-| Prompt Engineering | ████████░░ Advanced |
-| Problem Solving & DSA | ███████░░░ Proficient |
+|------|------------|
+| Full-Stack Development | ████████░░ Advanced |
+| System Design | ███████░░░ Proficient |
+| REST API Development | ████████░░ Advanced |
+| DevOps & CI/CD | ███████░░░ Proficient |
+| Docker & Kubernetes | ███████░░░ Proficient |
+| Cloud (AWS Basics) | ██████░░░░ Intermediate |
+| Generative AI | ████████░░ Advanced |
+| Agentic AI Systems | ██████░░░░ Intermediate |
+| Database Design | ███████░░░ Proficient |
+| Linux & Scripting | ███████░░░ Proficient |
 
 ---
 
-## Current Focus
+## 📌 Featured Work (Add Your Projects Here)
 
-- 🔨 Building **AI-powered full-stack applications** with LLM backends
-- ⚙️ Designing and implementing **CI/CD pipelines & DevOps automation**
-- 🧠 Exploring **Agentic AI workflows** and autonomous reasoning systems
-- ☁️ Deepening knowledge of **cloud-native architecture** and distributed systems
-- 🏗️ Strengthening **system design** skills — scalability, reliability, and trade-offs
-
----
-
-## I'm Open To
-
-- Full-stack web projects with real-world impact
-- AI-based applications (RAG, agents, LLM-powered services)
-- DevOps & cloud infrastructure work
-- System design discussions and architecture reviews
-- Open-source contributions
+- 🔹 AI-powered Stress Analyzer (CBT + LLM integration)  
+- 🔹 Full-stack apps with authentication & dashboards  
+- 🔹 CI/CD pipelines with Docker + GitHub Actions  
+- 🔹 AI query systems (Natural Language → Database)  
 
 ---
 
-## Philosophy
+## 🎯 Current Focus
 
-```
-Build  →  Break  →  Fix  →  Scale  →  Repeat
-```
+- 🔨 Building **AI-powered full-stack systems**  
+- ⚙️ Advanced **DevOps pipelines (CI/CD + Kubernetes)**  
+- 🧠 Developing **Agentic AI workflows**  
+- ☁️ Learning **cloud-native architecture (AWS + scaling)**  
+- 🏗️ Improving **system design for large-scale systems**  
 
-*Great software isn't written once — it's refined continuously.*
+---
+
+## 💼 Career Focus
+
+Actively seeking opportunities in:
+
+- 🚀 DevOps Engineering Internships  
+- 🤖 AI / GenAI Engineering Internships  
+- 🌐 Full-Stack Engineering Roles  
+
+📍 Location: Mumbai / Remote  
+
+---
+
+## 🧠 Philosophy
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavburad15&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavburad15&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+- Full-stack + AI projects  
+- DevOps & cloud systems  
+- Open-source contributions  
+- Startup collaborations  
 
 ---
 
 <p align="center">
-  <i>Let's build impactful technology together.</i>
+  <b>🚀 Let’s build impactful, scalable, AI-driven systems together.</b>
 </p>

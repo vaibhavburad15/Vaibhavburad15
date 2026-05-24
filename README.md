@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vaibhav Burad 👋</h1>
 
 <p align="center">
-  <b>Third-Year B.E. IT Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Cloud & DevOps Engineer &nbsp;·&nbsp; Agentic AI Builder</b>
+  <b>Fourth-Year B.E. IT Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Cloud & DevOps Engineer &nbsp;·&nbsp; Agentic AI Builder</b>
 </p>
 
 <p align="center">
